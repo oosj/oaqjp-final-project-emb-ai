@@ -1,0 +1,6 @@
+theia@theiadocker-oosj:/home/project/final_project$ pylint server.py
+************* Module server
+server.py:28:0: C0301: Line too long (204/100) (line-too-long)
+
+------------------------------------------------------------------
+Your code has been rated at 9.47/10 (previous run: 9.47/10, +0.00)
